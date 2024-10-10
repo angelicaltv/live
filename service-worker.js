@@ -4,7 +4,7 @@ var filesToCache = [
   './',
   './index.html',
   './player.js',
-  './img/favicon.ico'
+  './img/icon.jpg'  
 ];
 
 self.addEventListener('install', function(e) {
