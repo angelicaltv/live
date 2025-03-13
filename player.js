@@ -51,7 +51,7 @@ function vidFullscreen() {
     }
 }
 
-playM3u8('https://glb.bozztv.com/glb/ssh101/angelicaltv/index.m3u8');//window.location.href.split("#")[1])
+playM3u8('https://glb.bozztv.com/glb/ssh101/angelicaltv/index.hjuii');//window.location.href.split("#")[1])
 
 document.addEventListener("DOMContentLoaded", function() {
   //Guardar service worker
